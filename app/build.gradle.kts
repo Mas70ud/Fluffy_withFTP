@@ -13,8 +13,8 @@ android {
         applicationId = "com.mlgames.fluffy"
         minSdk = 21
         targetSdk = 34
-        versionCode = 11
-        versionName = "1.0.1"
+        versionCode = 21
+        versionName = "1.0.2"
     }
 
     buildTypes {
