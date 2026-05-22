@@ -1,0 +1,2 @@
+- use the file uri for a unique key (for multiple external storage issues)
+- Show gplay banner in readme now that it has been accepted
